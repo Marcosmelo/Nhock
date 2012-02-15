@@ -1,5 +1,6 @@
 Nhock
 -------------
-Este Jogo foi desenvolvido para a disciplina de Programação Orientada a Objetos 2 do Curso Técnico em Informática do SENAI São José em Santa Catarina.
+Este Jogo foi desenvolvido para a disciplina de Programaï¿½ï¿½o Orientada a Objetos 2 do Curso Tï¿½cnico em Informï¿½tica do SENAI Sï¿½o Josï¿½ em Santa Catarina.
 
-O Nhock é uma versão do clássicon Snake desenvolvido com baixo número de recursos para oferecer maior possibilidade de aprendizado.
+O Nhock ï¿½ uma versï¿½o do clï¿½ssicon Snake desenvolvido com baixo nï¿½mero de recursos para oferecer maior possibilidade de aprendizado.
+Marcos Melo
